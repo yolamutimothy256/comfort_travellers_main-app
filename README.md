@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Comfort Busses Ticketing App
 
 A smart ticketing application for Comfort Busses, transitioning from paper-based to digital ticketing.
@@ -105,3 +106,6 @@ flutter build ios --release
 
 Proprietary - Comfort Busses
 
+=======
+# comfort_travellers_main-app
+>>>>>>> 72b6d043f42d6794b9c8563699c60637e1176516
